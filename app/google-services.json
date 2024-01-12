@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369523978693",
+    "project_id": "favorites-7782c",
+    "storage_bucket": "favorites-7782c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369523978693:android:41caad90fb3cdea9fadbac",
+        "android_client_info": {
+          "package_name": "com.example.favorites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcAMoka6d4ocUwI_s2yuO1rr-Z9hW7DuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
